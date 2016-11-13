@@ -7,7 +7,7 @@ Short stories written in english. Please feel free to change all the short stori
 - story_name.md when you save 
 - story_name_adult.md if it has adult content
 - All genres
-- Make your own version of other stories that has been submitted 
+- Make your own version of other stories that has already been submitted on another file( story_name_v2.md  )
 - Feel free to use images 
 - You dont have to complete a story before you submit. Other people can continue it for you.
 - Dont have to be perfect english, remember that this is for fun only 
