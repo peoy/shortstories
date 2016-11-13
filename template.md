@@ -1,8 +1,3 @@
----
-layout: post
-tittle: your_tittle  
----
-
 # Story name, by yourname. 
 
 ## chapter 1 
