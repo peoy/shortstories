@@ -12,5 +12,5 @@ Short stories written in english. Please feel free to change all the short stori
 - You dont have to write a complete a story before you submit. Other people can continue writing it for you.
 - Dont have to be perfect english
 - Dont publish illegal content 
-- Please include a credit page at the end of your story so you and other people can sign their name on
+- Please include a credit page at the end of your story_name.md file so you and other people can sign their name on
 
