@@ -1,4 +1,4 @@
-# Story name, by yourname. 
+# Story name, by your name. 
 
 ## chapter 1 
 Feel free to use another template
