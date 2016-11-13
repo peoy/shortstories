@@ -10,7 +10,7 @@ Short stories written in english. Please feel free to change all the short stori
 - Make your own version of other stories that has already been submitted on another file( story_name_v2.md  )
 - Feel free to use images 
 - You dont have to write a complete a story before you submit. Other people can continue writing it for you.
-- Dont have to be perfect english, remember that this is for fun only 
+- Dont have to be perfect english
 - Dont publish illegal content 
 - Please include a credit page at the end of your story so you and other people can sign their name on
 
