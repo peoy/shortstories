@@ -1,4 +1,4 @@
-# ShortStories
+# Short stories
 Short stories written in english. Please feel free to change all the short stories to the better.
 
 #Create your own short story and submit it here 
@@ -13,4 +13,6 @@ Short stories written in english. Please feel free to change all the short stori
 - Dont have to be perfect english
 - Dont publish illegal content 
 - Please include a credit page at the end of your story_name.md file so you and other people can sign their name on
+
+Markdown tutorial link: [Markdown](https://guides.github.com/features/mastering-markdown/)
 
